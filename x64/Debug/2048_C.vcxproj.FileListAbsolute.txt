@@ -1,0 +1,1 @@
+C:\vs\projects\2048_C\x64\Debug\2048_C.exe

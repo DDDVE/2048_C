@@ -1,0 +1,13 @@
+﻿  2048_C.cpp
+C:\vs\projects\2048_C\2048_C.cpp(185,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+C:\vs\projects\2048_C\2048_C.cpp(185,9): message : 请考虑在格式字符串中使用“%lld”
+C:\vs\projects\2048_C\2048_C.cpp(185,9): message : 请考虑在格式字符串中使用“%Id”
+C:\vs\projects\2048_C\2048_C.cpp(185,9): message : 请考虑在格式字符串中使用“%I64d”
+C:\vs\projects\2048_C\2048_C.cpp(572,13): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+C:\vs\projects\2048_C\2048_C.cpp(576,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+C:\vs\projects\2048_C\2048_C.cpp(563): warning C4715: “keyboardControl”: 不是所有的控件路径都返回值
+  All 29 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  2048_C.vcxproj -> C:\vs\projects\2048_C\x64\Release\2048_C.exe
